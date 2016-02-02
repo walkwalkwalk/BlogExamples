@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.gradle.sample.apiImpl.PersonImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-02T13:00:23" hostname="baidudeMacBook-Pro-2.local" time="0.004">
-  <properties/>
-  <testcase name="testToString" classname="org.gradle.sample.apiImpl.PersonImplTest" time="0.004"/>
-  <system-out><![CDATA[*** jason borne ***
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
